@@ -10,6 +10,7 @@ A backend project using TypeScript that implements features for handling GraphQL
 - Apollo Server integrated with Express
 - MongoDB for data storage (via Mongoose)
 - Environment variables using dotenv
+- PubSub for Subscription
 
 ## Installation
 
